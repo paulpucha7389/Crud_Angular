@@ -1,0 +1,9 @@
+
+#Archivos json
+package.json
+package-lock.json
+tsconfig.json
+
+#Modulos de Node
+/node_modules
+
